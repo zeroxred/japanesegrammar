@@ -185,7 +185,7 @@ TAMA NI TSUKAU
     font-style:italic;
 ">
 
-KOKUHAKU 
+<strong>==告白==</strong>
 
 あの夜、君の笑顔を見た<strong>ことがきっかけで</strong>、<br>
 少しずつ君を好きになっていった。<br>
@@ -193,5 +193,88 @@ KOKUHAKU
 月明かりが君の瞳に映って<strong>以来</strong>、 <br>
 君のそばにずっといたいと思った。 <br>
 君のことが好きなんだ。
+
+</div>
+
+# によって
+
+① 原因・理由（げんいん・りゆう, gen'in / riyū）
+
+「～のために」「～が原因で」
+
+病気の流行によって、生活が変わった。
+
+地震によって、多くの家が壊れた。
+
+➡️ Debido a / a causa de
+
+② 手段・方法（しゅだん・ほうほう, shudan / hōhō）
+「～を使って」「～を通して」
+
+インターネットによって情報を集める。
+
+➡️ Mediante / por medio de
+
+③ 違い・基準（ちがい・きじゅん, chigai / kijun）
+「～によって異なる」
+
+人によって考え方が違う。
+国によって文化が異なる。
+
+➡️ Según / dependiendo de
+
+メモ
+により = によって の硬い表現（ニュース・公式文書でよく使う）。
+による + 名詞
+地震による被害
+大雪による事故
+
+Resumen corto para tus notas:
+
+によって
+① 原因・理由（debido a）
+② 手段・方法（mediante）
+③ 違い・基準（según, dependiendo de）
+
+あの日、後ろに向いたことによって、君が見つけた。
+
+Para algo romantico, es preferible usar OKAGE DE, aquí suele ser mas objetivo 
+
+病気の流行によって… (debido a la epidemia...)
+地震によって… (debido al terremoto...)
+
+あの日、後ろを向いたことによって、転びました。
+
+Sigue sin funcionar por que ni yotte es mas formal o analitica, aqui en lugar de niyotte se podría usar TAME
+
+嵐によって、家に住めなくなった。
+
+インターネットによって情報を集めた。
+
+時には、天気によって予定が変わる。
+
+---
+
+<div style="
+    text-align:center;
+    line-height:2.4;
+    letter-spacing:0.05em;
+    margin-top:20px;
+    font-style:italic;
+">
+
+嵐<strong>によって</strong>、家に住めなくなった。
+
+インターネット<strong>によって</strong>情報を集めた。
+
+時には、天気<strong>によって</strong>予定が変わる。
+
+やっぱり、人の気持ちも同じかもしれない。
+
+君とけんかした時、もう君のそばにいられなくなった。
+
+君の思いを誰よりも理解したかった。
+
+結局、君と私は別々の道を歩むことになった。
 
 </div>
