@@ -121,3 +121,29 @@ ki ga tsuku
 Kowasa ga nakunaru ni shitagatte, yūki ga mebaeru.
 
 mebaeru
+
+16,
+
+mondai 3 pagi
+
+===
+
+17, 
+
+18
+
+kyogijou
+
+sakka = 
+
+rendei
+
+# 16. ばかり
+
+【意味】：どんどん～になる（悪くなる、よくならない）
+
+【接続】: Vる+ばかり
+
+君の顔を思い出すたびに、心が痛むばかりだ。
+君との思い出がよみがえるたびに、涙があふれるばかりだ。
+君への想いは、苦(くる)しくなるばかりだ。
