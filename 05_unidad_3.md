@@ -21,3 +21,37 @@ hodo (ほど): Al grado de / Hasta el punto de.
 hannou
 
 tsunageru to
+
+# 19. に基づいて
+
+Ｎ+基づいて
+
+con base en (algo expresamente fundamentado)
+
+データに基づいて、愛は信頼によって育つ。私たちの愛の木も、空へと伸(の)びていく。
+
+# 20. を中心に
+
+N + を中心に (して)
+
+centrado en...
+alrededor de...
+
+天の川を中心に星々が広がる。そう、私の心も君を中心に回っている。
+あまのがわをちゅうしんに、ほしぼしがひろがる。そう、わたしのこころもきみをちゅうしんにまわっている。
+
+
+
+
+天の川を中心に、星が飛んでいく、そう私の中止に君がとんでいく
+
+天の川銀河は、いつかアンドロメダ銀河と融合する。そう、私たちも。
+
+
+銀河はブラックホールを中心に回転している。
+
+La galaxia gira alrededor de un agujero negro como centro.
+
+私たちの銀河を中心に物語を考えた。
+
+Creé una historia centrada en nuestra galaxia.
