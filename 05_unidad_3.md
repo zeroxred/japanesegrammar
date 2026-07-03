@@ -55,3 +55,12 @@ La galaxia gira alrededor de un agujero negro como centro.
 私たちの銀河を中心に物語を考えた。
 
 Creé una historia centrada en nuestra galaxia.
+
+# 21. とおり
+
+Vる/ｖた+とおり（に）
+
+N+のとおり（に）/　どおり（に）
+
+思った通り、君の美しさは顔だけではなく、心にも宿っている。だからこそ、世界は塵になっても、一瞬たりとも君と離れない。
+Omotta tōri, kimi no utsukushisa wa kao dake de wa naku, kokoro ni mo yadotte iru. Dakara koso, sekai wa chiri ni natte mo, isshun tari tomo kimi to hanarenai.
