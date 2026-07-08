@@ -28,7 +28,7 @@ tsunageru to
 
 con base en (algo expresamente fundamentado)
 
-データに基づいて、愛は信頼によって育つ。私たちの愛の木も、空へと伸(の)びていく。
+- データに基づいて、愛は信頼によって育つ。私たちの愛の木も、空へと伸(の)びていく。
 
 # 20. を中心に
 
@@ -37,7 +37,8 @@ N + を中心に (して)
 centrado en...
 alrededor de...
 
-天の川を中心に星々が広がる。そう、私の心も君を中心に回っている。
+- 天の川を中心に星々が広がる。そう、私の心も君を中心に回っている。
+
 あまのがわをちゅうしんに、ほしぼしがひろがる。そう、わたしのこころもきみをちゅうしんにまわっている。
 
 
@@ -62,5 +63,34 @@ Vる/ｖた+とおり（に）
 
 N+のとおり（に）/　どおり（に）
 
-思った通り、君の美しさは顔だけではなく、心にも宿っている。だからこそ、世界は塵になっても、一瞬たりとも君と離れない。
+- 思った通り、君の美しさは顔だけではなく、心にも宿っている。だからこそ、世界は塵になっても、一瞬たりとも君と離れない。
+
 Omotta tōri, kimi no utsukushisa wa kao dake de wa naku, kokoro ni mo yadotte iru. Dakara koso, sekai wa chiri ni natte mo, isshun tari tomo kimi to hanarenai.
+
+# 22. という
+
+- 愛という言葉には色々な意味があって、その意味の一つは桜井さんだ。
+
+愛という言葉には色々な意味があって、その意味の一つは君だ。
+
+# 23. に対して
+
+Hacia a / dirigido a / en relación a
+
+N + に対して
+N + に対する + N
+
+- 彼女に対して言ったことは、今でも頭の中で共鳴している。
+
+Kanojo ni taishite itta koto wa, ima demo atama no naka de kyōmei shite iru.
+
+きょうめいする
+
+- 彼女に対する態度を、今でも後悔している
+
+Kanojo ni taisuru taido o, ima demo kōkai shite iru.
+
+こうかい
+
+彼女に対して言ったことは、今でも頭の中で共鳴している。
+彼女に対する態度を、今でも後悔している
