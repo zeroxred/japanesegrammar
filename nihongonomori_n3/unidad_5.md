@@ -51,3 +51,4 @@ kimi ni horeyasui, seikaku to kawaisa ha 100 ten dakara.
 ※しない → せずにはいられない
 
 君との写真を見ると、涙がこぼれずにはいられない。結局、君は私の心の大切な一部だった。
+namida wo kobozazuni ha irarenai
